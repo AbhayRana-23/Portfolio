@@ -48,7 +48,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-  background: url("F:/Rana/week 4/day 17/hero.png") no-repeat center center/cover;
+  background: url("hero.png") no-repeat center center/cover;
   height: 80vh;
   display: flex;
   justify-content: center;
